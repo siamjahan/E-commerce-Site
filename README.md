@@ -38,11 +38,7 @@ SL|Learning Task|Description|Status|Comment
 - Cart Page
 - login registration page
 
-## Unimplimented Features
-- Order Option
-- Admin Panel
-- Search tool
-- Payment Confirmation
+
 
 ## Functionality
 - Home page creation
