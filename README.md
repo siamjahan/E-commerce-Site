@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **E-Commerce: An Online Store Application** is a fully functional e-commerce platform designed to provide a seamless shopping experience for users. It features a user-friendly interface for showcasing products, a secure login and registration system, and shopping cart functionality to facilitate smooth product selection and purchase. 
+An e-commerce platform designed to provide a seamless shopping experience for users. It features a user-friendly interface for showcasing products, a secure login and registration system, and shopping cart functionality to facilitate smooth product selection and purchase. 
 
 The application is built using HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL to ensure a responsive, dynamic, and secure shopping environment.
 
