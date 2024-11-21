@@ -1,105 +1,39 @@
-# G27-E-commerce-Site
+# E-Commerce: An Online Store Application
 
-Expected Timeline
-=================
+## Overview
 
-![gantt_chart](https://user-images.githubusercontent.com/52913489/117702733-b7db5380-b1ea-11eb-8b55-ca90913c0ad2.jpg)
+The **E-Commerce: An Online Store Application** is a fully functional e-commerce platform designed to provide a seamless shopping experience for users. It features a user-friendly interface for showcasing products, a secure login and registration system, and shopping cart functionality to facilitate smooth product selection and purchase. 
 
-Report On Learning Pre-requisites
----------------------------------
+The application is built using HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL to ensure a responsive, dynamic, and secure shopping environment.
 
-SL|Learning Task|Description|Status|Comment
--:|:------------|:----------|:------:|---------|
-1|Web Basics    |Basics of HTML,CSS,Javascript|![_](https://img.shields.io/badge/HTML-Completed-brightgreen) ![_](https://img.shields.io/badge/CSS-Completed-orange) ![_](https://img.shields.io/badge/Javascript-Completed-orange) | |
-2|Web Framework |Bootstrap| | |![_](https://img.shields.io/badge/HTML-Completed-brightgreen) | |
+## Features
 
+- **Product Showcase**: An attractive and intuitive interface to display product details, including images, descriptions, and prices.
+- **Shopping Cart**: A robust shopping cart functionality allowing users to add, update, and remove products.
+- **User Authentication**: Secure login and registration system to ensure data privacy and security.
+- **Responsive Design**: Built with Bootstrap, ensuring compatibility across all device sizes.
 
+## Tech Stack
 
+- **Frontend**: 
+  - HTML: For structuring the web pages.
+  - CSS & Bootstrap: For styling and responsive design.
+  - JavaScript: To handle interactivity, including cart functionality.
 
-## Underlying Technology
-- Browser(Google Chrome and Microsoft Edge)
-- HTML and CSS
-- Database Engine(MySQL,Apache)
-- Operating System(Windows)
-- Programming Language(Javascript,PHP)
-- client side
-- server side
-
-## Implimented Features
-- Home page creation
-- Products page creation 
-- Categories Page creation 
-- About page creation 
-- Contact page creation
-- Account page creation 
-- database connection 
-- Featured Products 
-- product details page 
-- Cart Page
-- login registration page
-
-
-
-## Functionality
-- Home page creation
-- Products page creation 
-- Categories Page creation 
-- About page creation 
-- Contact page creation
-- Account page creation 
-- database connection 
-- Featured Products 
-- product details page 
-- Cart Page
-- login registration page
-
- Contribution
- -------------
-#### Siam 2018331044
-- Category section
-- About Page
-- Contact  page
-- Login and registration Page
-
-#### Suraiya Eva 2018331048
-- Home page
-- All products page
-- Products Details page
-
-Topic Learned
-------
-#### Siam 2018331044
-
-- HTML,CSS
-- Javascript
-- PHP
-- MySQL
-- Database Connection
-- Nodejs
-- PDF File making
-
-#### EVA 2018331048
-
-- HTML,CSS
-- Javascript
-- PHP
-- MySQL
-- Database Connection
-- Bootstrap
-- README File update,Description and Instruction File Update
-- Gantt Chart
+- **Backend**:
+  - PHP: For server-side scripting and handling business logic.
+  - MySQL: A database for managing product information, user details, and cart data.
 
 ## Acknowledgements
 - Anisul Islam(HTML,CSS,Javascript)
 - w3school(HTML,CSS)
 - Anisul Islam(Bootstrap)
-- Rabbil Hasan(Nodejs)
 - freecodecamp(PHP)
 
 Developers
 ----------
 #### Group No:27
-#### Group Name:The Warriors
+
 - Member 1: Siam Jahan
 - Reg no: 2018331044
 - Session: 2018-19
