@@ -30,20 +30,5 @@ The application is built using HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL 
 - Anisul Islam(Bootstrap)
 - freecodecamp(PHP)
 
-Developers
-----------
-#### Group No:27
-
-- Member 1: Siam Jahan
-- Reg no: 2018331044
-- Session: 2018-19
-- Email: siamjahan44@gmail.com
-- Mobile no: 01757366941
-
-- Member 2: Suraiya Akter Eva
-- Reg no: 2018331048
-- Session: 2018-19
-- Email: aktersuraiya115@gmail.com
-- Mobile no: 01749114609
 
 <small>&copy; 2021 - Dept. of CSE, SUST, BD</small>
